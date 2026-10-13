@@ -1,4 +1,4 @@
-
+console.log("★★★★★ custom02.js 파일 실행됨 ★★★★★");
 $(document).ready(function () {
     console.log("[1] JS 실행 성공");
     console.log("[2] 현재 주소:", window.location.hostname);
