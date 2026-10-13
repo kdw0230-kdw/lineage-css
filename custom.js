@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  if(!window.location.hostname.startsWith("poongwol")){
+  if(!window.location.hostname.startsWith("kanu")){
     document.documentElement.style.display="none";
     return;
   }
